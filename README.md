@@ -9,14 +9,12 @@
 
 - 📫 How to reach me **lavkush3844@gmail.com**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I Think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lavkush3844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lavkush3844" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lavkush varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavkush varma" height="30" width="40" /></a>
-<a href="https://fb.com/lavkush varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lavkush varma" height="30" width="40" /></a>
-<a href="https://instagram.com/lavkush.384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavkush.384" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/lavkush3844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lavkush3844" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavkush3844&show_icons=true&locale=en" alt="lavkush3844" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavkush3844&" alt="lavkush3844" /></p>
+
